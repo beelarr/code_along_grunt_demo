@@ -1,0 +1,4 @@
+.idea/inspectionProfiles/
+.idea/jsLinters/
+lib/node_modules/
+lib/package-lock.json
